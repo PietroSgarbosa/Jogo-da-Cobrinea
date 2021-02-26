@@ -1,0 +1,21 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: var(--azul);
+    background-color: var(--background);
+    font-family: DotGothic16;
+}
+
+:root {
+    --azul: #489dff;
+    --cinza: rgb(156, 154, 154);
+    --background: rgb(71, 67, 67);
+}
+
+title .cobrinea {
+    background-color: var(--azul);
+}
